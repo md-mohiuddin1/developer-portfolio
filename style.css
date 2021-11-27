@@ -1,0 +1,56 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.authorName{
+    color:orange;
+}
+
+h3{
+    font-weight: bolder;
+}
+
+.headerP{
+    font-weight: bold;
+    color: dimgray;
+
+}
+
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+
+img{
+    width: 350px;
+    border: 3px solid orange;
+    border-radius: 15px ;
+}
+img:hover{
+    cursor:pointer;
+    border: 3px solid navy;
+}
+
+header{
+    display: flex;
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+    padding: 50px 90px;
+}
+
+.headerDiv1{
+    margin-right: 40px;
+}
+
+.headerDiv2{
+    margin-left: 40px;
+}
