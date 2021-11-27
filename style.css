@@ -29,6 +29,10 @@ h3{
     font-weight: 700;
     color: white;
 }
+.anchor-button:hover{
+    cursor:pointer;
+    border: 3px solid navy;
+}
 
 img{
     width: 350px;
@@ -39,6 +43,7 @@ img:hover{
     cursor:pointer;
     border: 3px solid navy;
 }
+
 
 header{
     display: flex;
